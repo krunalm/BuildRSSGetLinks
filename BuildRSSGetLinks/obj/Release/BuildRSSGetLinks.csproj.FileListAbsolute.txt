@@ -1,0 +1,8 @@
+E:\Development\Projects\BuildRSSGetLinks\BuildRSSGetLinks\bin\Release\BuildRSSGetLinks.exe.config
+E:\Development\Projects\BuildRSSGetLinks\BuildRSSGetLinks\bin\Release\BuildRSSGetLinks.exe
+E:\Development\Projects\BuildRSSGetLinks\BuildRSSGetLinks\bin\Release\BuildRSSGetLinks.pdb
+E:\Development\Projects\BuildRSSGetLinks\BuildRSSGetLinks\bin\Release\FeedAggreagator.dll
+E:\Development\Projects\BuildRSSGetLinks\BuildRSSGetLinks\bin\Release\RestSharp.dll
+E:\Development\Projects\BuildRSSGetLinks\BuildRSSGetLinks\bin\Release\Suyati.XmlExtractor.dll
+E:\Development\Projects\BuildRSSGetLinks\BuildRSSGetLinks\obj\Release\BuildRSSGetLinks.exe
+E:\Development\Projects\BuildRSSGetLinks\BuildRSSGetLinks\obj\Release\BuildRSSGetLinks.pdb
