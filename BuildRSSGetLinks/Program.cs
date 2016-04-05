@@ -35,11 +35,11 @@ namespace BuildRSSGetLinks
                     {
                         if (item.MediaGroup != null && item.MediaGroup.MediaContentList.Count > 0)
                         {
-                            foreach (var media in item.MediaGroup.MediaContentList)
-                            {
-                                sb2.Append(media.Url);
-                                sb2.Append(Environment.NewLine);
-                            }
+                            //foreach (var media in item.MediaGroup.MediaContentList)
+                            //{
+                            //    sb2.Append(media.Url);
+                            //    sb2.Append(Environment.NewLine);
+                            //}
 
                             totalCount++;
 
@@ -84,7 +84,7 @@ namespace BuildRSSGetLinks
 
 
             File.WriteAllText("Build_Videos_" + DateTime.Now.Ticks + ".txt", sb.ToString());
-            File.WriteAllText("Build_Videos_sb2_" + DateTime.Now.Ticks + ".txt", sb2.ToString());
+            //File.WriteAllText("Build_Videos_sb2_" + DateTime.Now.Ticks + ".txt", sb2.ToString());
 
             Console.ReadLine();
         }
