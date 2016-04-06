@@ -26,6 +26,7 @@ namespace BuildRSSGetLinks
 
             try
             {
+                // love <3 the FeedAggreagator!!
                 SyndicationFeed syndicationFeed = SyndicationFeed.Load(buildURL);
                 if (syndicationFeed.FeedType == FeedType.MediaRSS)
                 {
