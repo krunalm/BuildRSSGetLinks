@@ -18,7 +18,7 @@ namespace BuildRSSGetLinks
             int totalMedia = 0;
             int totalUrls = 0;
             StringBuilder sb = new StringBuilder();
-            StringBuilder sb2 = new StringBuilder();
+            //StringBuilder sb2 = new StringBuilder();
             var buildURL = ConfigurationManager.AppSettings["BuildEventRSSUrl"];
 
             //var isValidFeed = SyndicationFeed.IsValidFeed(buildURL);

@@ -4,6 +4,5 @@ E:\Development\Projects\BuildRSSGetLinks\BuildRSSGetLinks\bin\Debug\BuildRSSGetL
 E:\Development\Projects\BuildRSSGetLinks\BuildRSSGetLinks\bin\Debug\FeedAggreagator.dll
 E:\Development\Projects\BuildRSSGetLinks\BuildRSSGetLinks\bin\Debug\RestSharp.dll
 E:\Development\Projects\BuildRSSGetLinks\BuildRSSGetLinks\bin\Debug\Suyati.XmlExtractor.dll
-E:\Development\Projects\BuildRSSGetLinks\BuildRSSGetLinks\obj\Debug\BuildRSSGetLinks.csprojResolveAssemblyReference.cache
 E:\Development\Projects\BuildRSSGetLinks\BuildRSSGetLinks\obj\Debug\BuildRSSGetLinks.exe
 E:\Development\Projects\BuildRSSGetLinks\BuildRSSGetLinks\obj\Debug\BuildRSSGetLinks.pdb
